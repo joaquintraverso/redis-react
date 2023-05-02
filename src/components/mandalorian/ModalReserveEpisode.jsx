@@ -56,7 +56,7 @@ export default function ModalReserveEpisodes() {
                       >
                         Reservar
                     </button>
-                  </div>
+                  </div>  
                 ))}
             </>) : (
             <>

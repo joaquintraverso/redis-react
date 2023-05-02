@@ -22,6 +22,6 @@ export default function EpisodesButton() {
       <ModalListEpisodes />
       <ModalReserveEpisodes />
       <ModalConfirmEpisodes />
-    </div>
+    </div> 
   )
 }
